@@ -1,0 +1,28 @@
+.li{
+    background-color: rgb(152, 222, 252);
+    padding: 10px;
+    box-shadow: 10px 9px 22px -9px rgb(0, 0, 0);
+    /* width: 600px; */
+    display: flex;
+    align-items: center;
+    color: rgb(25, 10, 109);
+}
+
+.card-header{
+    background-color: rgb(134, 126, 240);
+}
+
+.card-body{
+    background-color: rgb(169, 156, 255);
+    border: none;
+}
+
+.add{
+  background-color: rgb(47, 190, 54);
+  border: none;
+}
+
+.delete{
+    /* width: auto; */
+   margin-left: auto;
+}
